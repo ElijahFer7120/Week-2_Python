@@ -19,8 +19,7 @@ while command !="HENSHIN":
 print("FULL-RABBIT MOONSAULT, RABBIT/TANK.")
 
 
-#*Reflections:
-#it is an input loop program that has an exit. it only stops if i type in "HENSHIN" into the terminal which then it stops. 
+
 
 
 
