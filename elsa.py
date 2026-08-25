@@ -10,7 +10,7 @@ i named it "elsa" for a dumb pun
 #imagine you're beating a level in a video game and you just finish a level. this shows your final results in that level
 
 #i picked a game's rating system because i more relate to it than grades. Plus, both rating are related in some ways
-#because the game ratings were adopted from japanese school gradings 
+#because the game ratings were adopted from japanese school grading systems.
 
 print("You have passed this Level")
 score = 1500
